@@ -1,0 +1,19 @@
+.pad{
+    align-items: center;
+    justify-content: center;
+    position:relative;
+    top :150px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right:10px;
+}
+body{
+    background-color:bisque;
+}
+#display{
+    position:relative;
+    top:100px;
+    left:100px;
+
+}
